@@ -10,6 +10,13 @@
   - `fix/<tema>`: corrige algo que falla (ej. `fix/importar-monedas`)
   - `docs/<tema>`: solo textos o guías
 
+## Quién puede subir cambios
+
+- **Consultores del equipo:** pídele a galc-odoo que te agregue como colaborador
+  (*Settings → Collaborators*). Así subes tus ramas directo a este repo.
+- **Cualquier otra persona:** haz un *Fork* del repo en GitHub, trabaja en tu copia y abre
+  el Pull Request desde ahí.
+
 ## Paso a paso
 
 ```bash
