@@ -1,0 +1,5 @@
+{
+  "name": "odoo-poc",
+  "description": "Prepara demos (PoC) de Odoo: analiza al cliente, carga datos de prueba vía API tras confirmación y entrega el manual PDF.",
+  "author": { "name": "galc-odoo" }
+}
